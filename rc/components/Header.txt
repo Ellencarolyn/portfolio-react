@@ -1,1 +1,7 @@
-Aqui vai o cabeçalho do meu site.
+# Olá, eu sou a Ellen! 👋
+Estou aprendendo Desenvolvimento de Software e Metodologias Ágeis.
+
+## 🚀 Minhas ferramentas:
+- Git e GitHub
+- VS Code
+- Organização de projetos
